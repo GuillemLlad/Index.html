@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ca">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Hola món!</title>
+    <style> 
+    body {
+        font-family: courier
+    } </style>
+  </head>
+  <body style="background-color: #C1B4AE;">
+        <h1>Hola món!</h1>
+    <h2>Biografia d'en Guillem Lladó</h2>
+    <p>En <strong>Guillem Lladó</strong> és un alumne de l'institut de Taradell.  
+        Va néixer el <font color="blue">13 de septembre del 2007.</font> 
+        <p>Actualment no practica cap esport tot i que fa temps jugava a 
+            <font size=4><b>futbol</b></font>, també <font size=4><b>tennis</b></font> i de molt petit <font size=4><b>natació.</b></font></p>
+        Li agraden els <font color="green">videojocs</font> i sortir amb els seus amics a passars-ho bé.
+    <h4> Moltes gràcies  <i>Guillem Lladó </i></h4>
+  </body>
+</html>
